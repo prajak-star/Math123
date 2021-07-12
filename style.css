@@ -1,0 +1,39 @@
+body
+{
+	text-align: center;
+	background-image: url("https://lh3.googleusercontent.com/proxy/OUCDy9uKWLfEG7OJ3zp61-D--FXlDavFL1pijgWvcAlOE9ic9BDFdSoC5br07RHnTIxSyXGHpcxvkPlb8RG8SwDNVgbhqc2D7FzlOg");
+}
+
+.login_div_1 , .login_div_2{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+}
+
+
+#player1n , #player2n{
+	text-align: left;
+	width: 50%;
+}
+
+h3{
+	text-align: left;
+}
+
+#word{
+	width: 60%;
+}
+
+#word_display{
+	letter-spacing: 5px;
+}
+
+#output{
+background:lightblue;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
